@@ -9,6 +9,9 @@ Course= "Devops from inventory"
 Trainer= "Sivakumar"
 Duration= "10HRS"
 
+PERSON= "Siva from inventory"
+WISHES= "Morning from inventory"
+
 [web]
 100.48.82.79
 
